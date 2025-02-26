@@ -1,0 +1,245 @@
+##adds data from fastq files to manifest 
+echo "MA001B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad215_MA001B_S217_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MA001E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad215_MA001E_S217_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MA002B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad216_MA002B_S218_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MA002E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad217_MA002E_S219_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MA003B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad218_MA003B_S220_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MA004B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad219_MA004B_S221_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MA004E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad220_MA004E_S222_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MA005B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad221_MA005B_S223_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MA005E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad222_MA005E_S224_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MA006B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad223_MA006B_S225_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MA007B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad224_MA007B_S226_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MA008B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad225_MA008B_S227_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "BA001B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad226_BA001B_S228_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "BA001E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad227_BA001E_S229_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "BA002B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad228_BA002B_S230_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "BA002E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad229_BA002E_S230_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "BA003B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad230_BA003B_S232_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "BA003E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad231_BA003E_S233_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "BA004B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad232_BA004B_S234_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "BA004E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad233_BA004E_S235_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "BA005B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad234_BA005B_S236_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "BA005E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad235_BA005E_S237_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "BA006B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad236_BA006B_S238_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "BA007B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad237_BA007B_S239_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "BA008B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad238_BA008B_S240_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MB001B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad239_MB001B_S241_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MB002B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad240_MB002B_S242_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MB003B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad241_MB003B_S243_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MB004B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad242_MB004B_S244_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MB005B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad243_MB005B_S245_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MB006B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad244_MB006B_S246_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MB007B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad245_MB007B_S247_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MB008B,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad246_MB008B_S248_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MB001E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad247_MB001E_S249_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MB002E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad248_MB002E_S250_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MB003E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad249_MB003E_S251_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MB004E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad250_MB004E_S252_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+echo "MB005E,/mnt/c/Users/jmktw/Documents/MEEMA\ Fastq/Fastq/Fastq/Jarrad251_MB005E_S253_L001_R1_001.fastq.gz,forward" >> manifest1.csv
+
+
+# List of FASTQ files
+file_names = [
+    "Jarrad214_MA001B_S216_L001_R1_001.fastq.gz",
+    "Jarrad215_MA001E_S217_L001_R1_001.fastq.gz",
+    "Jarrad216_MA002B_S218_L001_R1_001.fastq.gz",
+    "Jarrad217_MA002E_S219_L001_R1_001.fastq.gz",
+    "Jarrad218_MA003B_S220_L001_R1_001.fastq.gz",
+    "Jarrad219_MA004B_S221_L001_R1_001.fastq.gz",
+    "Jarrad220_MA004E_S222_L001_R1_001.fastq.gz",
+    "Jarrad221_MA005B_S223_L001_R1_001.fastq.gz",
+    "Jarrad222_MA005E_S224_L001_R1_001.fastq.gz",
+    "Jarrad223_MA006B_S225_L001_R1_001.fastq.gz",
+    "Jarrad224_MA007B_S226_L001_R1_001.fastq.gz",
+    "Jarrad225_MA008B_S227_L001_R1_001.fastq.gz",
+    "Jarrad226_BA001B_S228_L001_R1_001.fastq.gz",
+    "Jarrad227_BA001E_S229_L001_R1_001.fastq.gz",
+    "Jarrad228_BA002B_S230_L001_R1_001.fastq.gz",
+    "Jarrad229_BA002E_S231_L001_R1_001.fastq.gz",
+    "Jarrad230_BA003B_S232_L001_R1_001.fastq.gz",
+    "Jarrad231_BA003E_S233_L001_R1_001.fastq.gz",
+    "Jarrad232_BA004B_S234_L001_R1_001.fastq.gz",
+    "Jarrad233_BA004E_S235_L001_R1_001.fastq.gz",
+    "Jarrad234_BA005B_S236_L001_R1_001.fastq.gz",
+    "Jarrad235_BA005E_S237_L001_R1_001.fastq.gz",
+    "Jarrad236_BA006B_S238_L001_R1_001.fastq.gz",
+    "Jarrad237_BA007B_S239_L001_R1_001.fastq.gz",
+    "Jarrad238_BA008B_S240_L001_R1_001.fastq.gz",
+    "Jarrad239_MB001B_S241_L001_R1_001.fastq.gz",
+    "Jarrad240_MB002B_S242_L001_R1_001.fastq.gz",
+    "Jarrad241_MB003B_S243_L001_R1_001.fastq.gz",
+    "Jarrad242_MB004B_S244_L001_R1_001.fastq.gz",
+    "Jarrad243_MB005B_S245_L001_R1_001.fastq.gz",
+    "Jarrad244_MB006B_S246_L001_R1_001.fastq.gz",
+    "Jarrad245_MB007B_S247_L001_R1_001.fastq.gz",
+    "Jarrad246_MB008B_S248_L001_R1_001.fastq.gz",
+    "Jarrad247_MB001E_S249_L001_R1_001.fastq.gz",
+    "Jarrad248_MB002E_S250_L001_R1_001.fastq.gz",
+    "Jarrad249_MB003E_S251_L001_R1_001.fastq.gz",
+    "Jarrad250_MB004E_S252_L001_R1_001.fastq.gz",
+    "Jarrad251_MB005E_S253_L001_R1_001.fastq.gz"
+]
+
+#demultiplexes the data from manifest 
+qiime tools import \
+  --type 'SampleData[SequencesWithQuality]' \
+  --input-path fixed_manifest.tsv \
+  --output-path demux-single.qza \
+  --input-format SingleEndFastqManifestPhred33V2
+
+#summarizes the demultiplexed data into viz that gives stats for quality
+##looking at viz helps determine what your cutoff should be for next step
+qiime demux summarize \
+  --i-data demux-single.qza \
+  --o-visualization demux-single.qzv
+
+#runs dada2 which is a quality control and denoising plugin
+qiime dada2 denoise-single \
+  --i-demultiplexed-seqs demux-single.qza \
+  --p-trim-left 0 \
+  --p-trunc-len 153 \
+  --o-representative-sequences rep-seqs-dada2.qza \
+  --o-table table-dada2.qza \
+  --o-denoising-stats stats-dada2.qza
+
+#gives viz for metadata from dada2
+qiime metadata tabulate \
+  --m-input-file stats-dada2.qza \
+  --o-visualization stats-dada2.qzv
+
+#renames the files
+mv rep-seqs-dada2.qza rep-seqs.qza
+mv table-dada2.qza table.qza
+
+#changes our metadata file from csv to tsv
+sed 's/,/\t/g' meema_metadata.csv > meema_metadata1.tsv
+
+#makes feature table
+qiime feature-table summarize \
+  --i-table table.qza \
+  --o-visualization table-updated.qzv \
+  --m-sample-metadata-file meema_metadata1.tsv
+qiime feature-table tabulate-seqs \
+  --i-data rep-seqs.qza \
+  --o-visualization rep-seqs-updated.qzv
+
+conda install -c qiime2 q2-phylogeny
+
+#makes phylogenetic tree and saves as artifact
+qiime phylogeny align-to-tree-mafft-fasttree \
+  --i-sequences rep-seqs.qza \
+  --o-alignment aligned-rep-seqs.qza \
+  --o-masked-alignment masked-aligned-rep-seqs.qza \
+  --o-tree unrooted-tree.qza \
+  --o-rooted-tree rooted-tree.qza
+
+#converts tree to format that can be opened in R
+qiime tools export \
+  --input-path rooted-tree.qza \
+  --output-path exported-tree
+
+##in R
+#file path for tree to open in R
+\\wsl.localhost\Ubuntu\home\jamiekaiser13\MEEMA-Fastq\exported-tree
+
+#calculates diversity metrics
+qiime diversity core-metrics-phylogenetic \
+  --i-phylogeny rooted-tree.qza \
+  --i-table table.qza \
+  --p-sampling-depth 2348 \
+  --m-metadata-file meema_metadata1.tsv \
+  --output-dir core-metrics-results
+
+#changes our renamed metadata file from csv to tsv
+sed 's/,/\t/g' meema_metadata_renamed.csv > meema_metadata_renamed.tsv
+
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity core-metrics-results/faith_pd_vector.qza \
+  --m-metadata-file meema_metadata_renamed.tsv \
+  --o-visualization core-metrics-results/faith-pd-group-significance.qzv
+
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity core-metrics-results/evenness_vector.qza \
+  --m-metadata-file meema_metadata_renamed.tsv \
+  --o-visualization core-metrics-results/evenness-group-significance.qzv
+
+
+###the next bit I think we need to talk to Jarrad about
+
+#pairwaise based on baseline vs endpoint
+qiime diversity beta-group-significance \
+  --i-distance-matrix core-metrics-results/unweighted_unifrac_distance_matrix.qza \
+  --m-metadata-file meema_metadata_renamed.tsv \
+  --m-metadata-column Timepoint \
+  --o-visualization core-metrics-results/unweighted-unifrac-timepoint-significance.qzv \
+  --p-pairwise
+
+#pairwise based on control vs treatment
+qiime diversity beta-group-significance \
+  --i-distance-matrix core-metrics-results/unweighted_unifrac_distance_matrix.qza \
+  --m-metadata-file meema_metadata_renamed.tsv \
+  --m-metadata-column Group \
+  --o-visualization core-metrics-results/unweighted-unifrac-control-vs-intervention-significance.qzv \
+  --p-pairwise
+
+##This part didn't work 
+qiime diversity beta-group-significance \
+  --i-distance-matrix core-metrics-results/unweighted_unifrac_distance_matrix.qza \
+  --m-metadata-file meema_metadata_renamed.tsv \
+  --m-metadata-column Baseline_cpartid \
+  --o-visualization core-metrics-results/unweighted-unifrac-subject-group-significance.qzv \
+  --p-pairwise
+
+##cd 
+
+##Aicheson Distance for Beta Diversity
+#https://forum.qiime2.org/t/robust-aitchison-pca-beta-diversity-with-deicode/8333
+conda install -c conda-forge deicode
+
+qiime dev refresh-cache
+
+ qiime deicode rpca \
+    --i-table table.qza \
+    --p-min-feature-count 10 \
+    --p-min-sample-count 500 \
+    --o-biplot ordination.qza \
+    --o-distance-matrix distance.qza
+
+qiime emperor biplot \
+    --i-biplot ordination.qza \
+    --m-sample-metadata-file meema_metadata_renamed.tsv \
+    --o-visualization biplot.qzv \
+    --p-number-of-features 10
+
+#trying with a different number of features
+qiime emperor biplot \
+    --i-biplot ordination.qza \
+    --m-sample-metadata-file meema_metadata_renamed.tsv \
+    --o-visualization biplot.qzv \
+    --p-number-of-features 4
+
+##how do I pick the number of features to use?
+
+#doing this with only mother's feces data
+
+sed 's/,/\t/g' meema_metadata_mom.csv > meema_metadata_mom.tsv
+
+qiime feature-table filter-samples \
+  --i-table table.qza \
+  --m-metadata-file meema_metadata_mom.tsv \
+  --p-where "ID_Modifier='MA'" \
+  --o-filtered-table table_MA.qza
+
+qiime deicode rpca \
+  --i-table table_MA.qza \
+  --p-min-feature-count 1 \
+  --p-min-sample-count 2348 \
+  --o-biplot ordination_MA.qza \
+  --o-distance-matrix distance_MA.qza
+
+qiime emperor biplot \
+  --i-biplot ordination_MA.qza \
+  --m-sample-metadata-file meema_metadata_mom.tsv \
+  --o-visualization emperor_MA.qzv
+
